@@ -1,1 +1,1 @@
-print('Hello, World!')
+import hello_world
