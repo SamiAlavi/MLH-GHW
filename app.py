@@ -1,3 +1,4 @@
 import hello_world
 import sorting
 import rock_paper_scissor
+import random_number_generator
